@@ -6,7 +6,7 @@ Bem-vindo ao repositório da minha pesquisa sobre Detecção de Traços de Perso
 
 O principal objetivo deste projeto é construir um conjunto de dados valioso e rotulado com informações sobre o traço de personalidade Big Five em tweets em português. Além disso, buscamos explorar o potencial desse conjunto de dados em modelos de aprendizado de máquina clássicos para detecção e análise de traços de personalidade.
 
-## Conteúdo do Repositório:
+## :desktop_computer:	Conteúdo do Repositório:
 
 - Conjunto de dados de tweets rotulados com traços de personalidade Big Five dominantes.
 
