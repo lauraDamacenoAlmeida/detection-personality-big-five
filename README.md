@@ -1,6 +1,6 @@
 # Repositório de Dados - Detecção de Traços de Personalidade Big Five em usuários do Twitter
 
-Bem-vindo ao repositório da minha pesquisa sobre Detecção de Traços de Personalidade Big Five em tweets :wave:. Este repositório contém dados coletados a partir dos últimos 60 tweets compartilhados por usuários em português, rotulados com o traço de personalidade Big Five dominante.
+Bem-vindo ao repositório da minha pesquisa sobre Detecção de Traços de Personalidade Big Five em usuários no Twitter com base nos conteúdos textuais :wave:. Este repositório contém dados coletados a partir dos últimos 60 tweets compartilhados por usuários em português, rotulados com o traço de personalidade Big Five dominante.
 
 ## Objetivo da Pesquisa:
 
